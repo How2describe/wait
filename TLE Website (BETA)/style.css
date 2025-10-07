@@ -5,16 +5,23 @@
               margin-right: auto;
 
         }
-        #ingr{
+        #bodytext{
             border-style: double;
             border-radius: 5px;
 
         }
-        #equip{
-            border-style: double;
-            border-radius: 5px;
+        #image{
+            position: relative;
+            left: 20%;
+            right: auto;
         }
-        #steps{
-            border-style: double;
-            border-radius: 5px;
+        #titletext{
+            position: relative;
+            left: 35%;
+            right: auto;
+        }
+        #undertext{
+            position: relative;
+            left: 5%;
+            right: auto;
         }
